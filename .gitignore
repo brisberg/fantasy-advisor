@@ -1,0 +1,12 @@
+# Node Modules
+node_modules
+
+# Log files
+yarn-error.log
+
+# Certificates and Auth
+auth/
+yahoo.json
+
+# OS Files
+.DS_Store
