@@ -1,0 +1,232 @@
+{
+  "league_key": "402.l.14747",
+  "league_id": "14747",
+  "name": "Just Terrific",
+  "url": "https://basketball.fantasysports.yahoo.com/nba/14747",
+  "logo_url": false,
+  "draft_status": "predraft",
+  "num_teams": 8,
+  "edit_key": "2020-12-20",
+  "weekly_deadline": "",
+  "league_update_timestamp": null,
+  "scoring_type": "head",
+  "league_type": "private",
+  "renew": "395_120969",
+  "renewed": "",
+  "iris_group_chat_id": "",
+  "short_invitation_url": "https://basketball.fantasysports.yahoo.com/nba/14747/invitation?key=a171df3df628e323&ikey=30981fcb5ad74e67",
+  "allow_add_to_dl_extra_pos": 1,
+  "is_pro_league": "0",
+  "is_cash_league": "0",
+  "current_week": "1",
+  "start_week": "1",
+  "start_date": "2020-12-22",
+  "end_week": "19",
+  "end_date": "2021-05-09",
+  "game_code": "nba",
+  "season": "2020",
+  "settings": {
+    "draft_type": "live",
+    "is_auction_draft": "0",
+    "scoring_type": "head",
+    "persistent_url": "https://basketball.fantasysports.yahoo.com/league/justterrific",
+    "uses_playoff": "1",
+    "has_playoff_consolation_games": true,
+    "playoff_start_week": "17",
+    "uses_playoff_reseeding": 0,
+    "uses_lock_eliminated_teams": 1,
+    "num_playoff_teams": "6",
+    "num_playoff_consolation_teams": 6,
+    "has_multiweek_championship": 0,
+    "waiver_type": "R",
+    "waiver_rule": "all",
+    "uses_faab": "0",
+    "draft_time": "1608530400",
+    "draft_pick_time": "90",
+    "post_draft_players": "W",
+    "max_teams": "14",
+    "waiver_time": "2",
+    "trade_end_date": "2021-03-04",
+    "trade_ratify_type": "vote",
+    "trade_reject_time": "2",
+    "player_pool": "ALL",
+    "cant_cut_list": "yahoo",
+    "sendbird_channel_url": "17d3ad611ab710e8160af09bf6872031",
+    "roster_positions": [
+      {
+        "position": "PG",
+        "position_type": "P",
+        "count": 1
+      },
+      {
+        "position": "SG",
+        "position_type": "P",
+        "count": 1
+      },
+      {
+        "position": "G",
+        "position_type": "P",
+        "count": 1
+      },
+      {
+        "position": "SF",
+        "position_type": "P",
+        "count": 1
+      },
+      {
+        "position": "PF",
+        "position_type": "P",
+        "count": 1
+      },
+      {
+        "position": "F",
+        "position_type": "P",
+        "count": 1
+      },
+      {
+        "position": "C",
+        "position_type": "P",
+        "count": 2
+      },
+      {
+        "position": "Util",
+        "position_type": "P",
+        "count": 2
+      },
+      {
+        "position": "BN",
+        "count": 3
+      },
+      {
+        "position": "IL",
+        "count": "2"
+      }
+    ],
+    "stat_categories": [
+      {
+        "stat_id": 9004003,
+        "enabled": "1",
+        "name": "Field Goals Made / Field Goals Attempted",
+        "display_name": "FGM/A",
+        "sort_order": "1",
+        "position_type": "P",
+        "stat_position_types": [
+          "P"
+        ],
+        "is_only_display_stat": "1"
+      },
+      {
+        "stat_id": 5,
+        "enabled": "1",
+        "name": "Field Goal Percentage",
+        "display_name": "FG%",
+        "sort_order": "1",
+        "position_type": "P",
+        "stat_position_types": [
+          "P"
+        ]
+      },
+      {
+        "stat_id": 9007006,
+        "enabled": "1",
+        "name": "Free Throws Made / Free Throws Attempted",
+        "display_name": "FTM/A",
+        "sort_order": "1",
+        "position_type": "P",
+        "stat_position_types": [
+          "P"
+        ],
+        "is_only_display_stat": "1"
+      },
+      {
+        "stat_id": 8,
+        "enabled": "1",
+        "name": "Free Throw Percentage",
+        "display_name": "FT%",
+        "sort_order": "1",
+        "position_type": "P",
+        "stat_position_types": [
+          "P"
+        ]
+      },
+      {
+        "stat_id": 10,
+        "enabled": "1",
+        "name": "3-point Shots Made",
+        "display_name": "3PTM",
+        "sort_order": "1",
+        "position_type": "P",
+        "stat_position_types": [
+          "P"
+        ]
+      },
+      {
+        "stat_id": 12,
+        "enabled": "1",
+        "name": "Points Scored",
+        "display_name": "PTS",
+        "sort_order": "1",
+        "position_type": "P",
+        "stat_position_types": [
+          "P"
+        ]
+      },
+      {
+        "stat_id": 15,
+        "enabled": "1",
+        "name": "Total Rebounds",
+        "display_name": "REB",
+        "sort_order": "1",
+        "position_type": "P",
+        "stat_position_types": [
+          "P"
+        ]
+      },
+      {
+        "stat_id": 16,
+        "enabled": "1",
+        "name": "Assists",
+        "display_name": "AST",
+        "sort_order": "1",
+        "position_type": "P",
+        "stat_position_types": [
+          "P"
+        ]
+      },
+      {
+        "stat_id": 17,
+        "enabled": "1",
+        "name": "Steals",
+        "display_name": "ST",
+        "sort_order": "1",
+        "position_type": "P",
+        "stat_position_types": [
+          "P"
+        ]
+      },
+      {
+        "stat_id": 18,
+        "enabled": "1",
+        "name": "Blocked Shots",
+        "display_name": "BLK",
+        "sort_order": "1",
+        "position_type": "P",
+        "stat_position_types": [
+          "P"
+        ]
+      },
+      {
+        "stat_id": 19,
+        "enabled": "1",
+        "name": "Turnovers",
+        "display_name": "TO",
+        "sort_order": "0",
+        "position_type": "P",
+        "stat_position_types": [
+          "P"
+        ]
+      }
+    ],
+    "max_weekly_adds": "3"
+  }
+}

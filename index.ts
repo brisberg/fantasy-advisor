@@ -58,27 +58,80 @@ app.get('/auth/yahoo/callback', (req, res) => {
   });
 });
 
+app.get('/yahoo/game/meta', (req, res) => {
+  app.yf.game.meta(402)
+      .then(data => {
+        // do your thing
+        res.status(200).send(data);
+      })
+      .catch(err => {
+        // handle error
+        res.status(400).send(err);
+      });
+});
+
+app.get('/yahoo/league/meta', (req, res) => {
+  app.yf.league.meta('nba.l.14747')
+      .then(data => {
+        // do your thing
+        res.status(200).send(data);
+      })
+      .catch(err => {
+        // handle error
+        res.status(400).send(err);
+      });
+});
+
+app.get('/yahoo/league/settings', (req, res) => {
+  app.yf.league.settings('nba.l.14747')
+      .then(data => {
+        // do your thing
+        res.status(200).send(data);
+      })
+      .catch(err => {
+        // handle error
+        res.status(400).send(err);
+      });
+});
+
+app.get('/yahoo/league/standings', (req, res) => {
+  app.yf.league.standings('nba.l.14747')
+      .then(data => {
+        // do your thing
+        res.status(200).send(data);
+      })
+      .catch(err => {
+        // handle error
+        res.status(400).send(err);
+      });
+});
+
+
+app.get('/yahoo/roster/players', (req, res) => {
+  app.yf.roster.players('nba.l.14747')
+      .then(data => {
+        // do your thing
+        res.status(200).send(data);
+      })
+      .catch(err => {
+        // handle error
+        res.status(400).send(err);
+      });
+});
+
+app.get('/yahoo/league/draft_results', (req, res) => {
+  app.yf.league.draft_results('nba.l.14747')
+      .then(data => {
+        // do your thing
+        res.status(200).send(data);
+      })
+      .catch(err => {
+        // handle error
+        res.status(400).send(err);
+      });
+});
+
 const server = https.createServer({key: key, cert: cert}, app);
 server.listen(port, () => {
   console.log(`Example app listening at http://localhost:${port}`);
 });
-
-app.yf.game.meta(14747)
-    .then(data => {
-      // do your thing
-      console.log(data);
-    })
-    .catch(err => {
-      // handle error
-      console.error(err);
-    });
-
-app.yf.league.meta('nba.l.14747')
-    .then(data => {
-      // do your thing
-      console.log(data);
-    })
-    .catch(err => {
-      // handle error
-      console.error(err);
-    });
