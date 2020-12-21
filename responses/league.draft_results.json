@@ -1,0 +1,577 @@
+{
+  "league_key": "402.l.14747",
+  "league_id": "14747",
+  "name": "Just Terrific",
+  "url": "https://basketball.fantasysports.yahoo.com/nba/14747",
+  "logo_url": false,
+  "draft_status": "draft",
+  "num_teams": 8,
+  "edit_key": "2020-12-21",
+  "weekly_deadline": "",
+  "league_update_timestamp": null,
+  "scoring_type": "head",
+  "league_type": "private",
+  "renew": "395_120969",
+  "renewed": "",
+  "iris_group_chat_id": "",
+  "short_invitation_url": "https://basketball.fantasysports.yahoo.com/nba/14747/invitation?key=a171df3df628e323&ikey=30981fcb5ad74e67",
+  "allow_add_to_dl_extra_pos": 1,
+  "is_pro_league": "0",
+  "is_cash_league": "0",
+  "current_week": "1",
+  "start_week": "1",
+  "start_date": "2020-12-22",
+  "end_week": "19",
+  "end_date": "2021-05-09",
+  "game_code": "nba",
+  "season": "2020",
+  "draft_results": [
+    {
+      "pick": 1,
+      "round": 1,
+      "team_key": "402.l.14747.t.6",
+      "player_key": "402.p.4563"
+    },
+    {
+      "pick": 2,
+      "round": 1,
+      "team_key": "402.l.14747.t.1",
+      "player_key": "402.p.5007"
+    },
+    {
+      "pick": 3,
+      "round": 1,
+      "team_key": "402.l.14747.t.3",
+      "player_key": "402.p.6014"
+    },
+    {
+      "pick": 4,
+      "round": 1,
+      "team_key": "402.l.14747.t.8",
+      "player_key": "402.p.5432"
+    },
+    {
+      "pick": 5,
+      "round": 1,
+      "team_key": "402.l.14747.t.5",
+      "player_key": "402.p.5185"
+    },
+    {
+      "pick": 6,
+      "round": 1,
+      "team_key": "402.l.14747.t.7",
+      "player_key": "402.p.4612"
+    },
+    {
+      "pick": 7,
+      "round": 1,
+      "team_key": "402.l.14747.t.2",
+      "player_key": "402.p.5012"
+    },
+    {
+      "pick": 8,
+      "round": 1,
+      "team_key": "402.l.14747.t.4",
+      "player_key": "402.p.5352"
+    },
+    {
+      "pick": 9,
+      "round": 2,
+      "team_key": "402.l.14747.t.4",
+      "player_key": "402.p.6016"
+    },
+    {
+      "pick": 10,
+      "round": 2,
+      "team_key": "402.l.14747.t.2",
+      "player_key": "402.p.5765"
+    },
+    {
+      "pick": 11,
+      "round": 2,
+      "team_key": "402.l.14747.t.7",
+      "player_key": "402.p.5473"
+    },
+    {
+      "pick": 12,
+      "round": 2,
+      "team_key": "402.l.14747.t.5",
+      "player_key": "402.p.5294"
+    },
+    {
+      "pick": 13,
+      "round": 2,
+      "team_key": "402.l.14747.t.8",
+      "player_key": "402.p.4896"
+    },
+    {
+      "pick": 14,
+      "round": 2,
+      "team_key": "402.l.14747.t.3",
+      "player_key": "402.p.4244"
+    },
+    {
+      "pick": 15,
+      "round": 2,
+      "team_key": "402.l.14747.t.1",
+      "player_key": "402.p.5958"
+    },
+    {
+      "pick": 16,
+      "round": 2,
+      "team_key": "402.l.14747.t.6",
+      "player_key": "402.p.3704"
+    },
+    {
+      "pick": 17,
+      "round": 3,
+      "team_key": "402.l.14747.t.6",
+      "player_key": "402.p.5827"
+    },
+    {
+      "pick": 18,
+      "round": 3,
+      "team_key": "402.l.14747.t.1",
+      "player_key": "402.p.5197"
+    },
+    {
+      "pick": 19,
+      "round": 3,
+      "team_key": "402.l.14747.t.3",
+      "player_key": "402.p.5009"
+    },
+    {
+      "pick": 20,
+      "round": 3,
+      "team_key": "402.l.14747.t.8",
+      "player_key": "402.p.4912"
+    },
+    {
+      "pick": 21,
+      "round": 3,
+      "team_key": "402.l.14747.t.5",
+      "player_key": "402.p.5600"
+    },
+    {
+      "pick": 22,
+      "round": 3,
+      "team_key": "402.l.14747.t.7",
+      "player_key": "402.p.4725"
+    },
+    {
+      "pick": 23,
+      "round": 3,
+      "team_key": "402.l.14747.t.2",
+      "player_key": "402.p.4840"
+    },
+    {
+      "pick": 24,
+      "round": 3,
+      "team_key": "402.l.14747.t.4",
+      "player_key": "402.p.5832"
+    },
+    {
+      "pick": 25,
+      "round": 4,
+      "team_key": "402.l.14747.t.4",
+      "player_key": "402.p.4897"
+    },
+    {
+      "pick": 26,
+      "round": 4,
+      "team_key": "402.l.14747.t.2",
+      "player_key": "402.p.5327"
+    },
+    {
+      "pick": 27,
+      "round": 4,
+      "team_key": "402.l.14747.t.7",
+      "player_key": "402.p.5826"
+    },
+    {
+      "pick": 28,
+      "round": 4,
+      "team_key": "402.l.14747.t.5"
+    },
+    {
+      "pick": 29,
+      "round": 4,
+      "team_key": "402.l.14747.t.8"
+    },
+    {
+      "pick": 30,
+      "round": 4,
+      "team_key": "402.l.14747.t.3"
+    },
+    {
+      "pick": 31,
+      "round": 4,
+      "team_key": "402.l.14747.t.1"
+    },
+    {
+      "pick": 32,
+      "round": 4,
+      "team_key": "402.l.14747.t.6"
+    },
+    {
+      "pick": 33,
+      "round": 5,
+      "team_key": "402.l.14747.t.6"
+    },
+    {
+      "pick": 34,
+      "round": 5,
+      "team_key": "402.l.14747.t.1"
+    },
+    {
+      "pick": 35,
+      "round": 5,
+      "team_key": "402.l.14747.t.3"
+    },
+    {
+      "pick": 36,
+      "round": 5,
+      "team_key": "402.l.14747.t.8"
+    },
+    {
+      "pick": 37,
+      "round": 5,
+      "team_key": "402.l.14747.t.5"
+    },
+    {
+      "pick": 38,
+      "round": 5,
+      "team_key": "402.l.14747.t.7"
+    },
+    {
+      "pick": 39,
+      "round": 5,
+      "team_key": "402.l.14747.t.2"
+    },
+    {
+      "pick": 40,
+      "round": 5,
+      "team_key": "402.l.14747.t.4"
+    },
+    {
+      "pick": 41,
+      "round": 6,
+      "team_key": "402.l.14747.t.4"
+    },
+    {
+      "pick": 42,
+      "round": 6,
+      "team_key": "402.l.14747.t.2"
+    },
+    {
+      "pick": 43,
+      "round": 6,
+      "team_key": "402.l.14747.t.7"
+    },
+    {
+      "pick": 44,
+      "round": 6,
+      "team_key": "402.l.14747.t.5"
+    },
+    {
+      "pick": 45,
+      "round": 6,
+      "team_key": "402.l.14747.t.8"
+    },
+    {
+      "pick": 46,
+      "round": 6,
+      "team_key": "402.l.14747.t.3"
+    },
+    {
+      "pick": 47,
+      "round": 6,
+      "team_key": "402.l.14747.t.1"
+    },
+    {
+      "pick": 48,
+      "round": 6,
+      "team_key": "402.l.14747.t.6"
+    },
+    {
+      "pick": 49,
+      "round": 7,
+      "team_key": "402.l.14747.t.6"
+    },
+    {
+      "pick": 50,
+      "round": 7,
+      "team_key": "402.l.14747.t.1"
+    },
+    {
+      "pick": 51,
+      "round": 7,
+      "team_key": "402.l.14747.t.3"
+    },
+    {
+      "pick": 52,
+      "round": 7,
+      "team_key": "402.l.14747.t.8"
+    },
+    {
+      "pick": 53,
+      "round": 7,
+      "team_key": "402.l.14747.t.5"
+    },
+    {
+      "pick": 54,
+      "round": 7,
+      "team_key": "402.l.14747.t.7"
+    },
+    {
+      "pick": 55,
+      "round": 7,
+      "team_key": "402.l.14747.t.2"
+    },
+    {
+      "pick": 56,
+      "round": 7,
+      "team_key": "402.l.14747.t.4"
+    },
+    {
+      "pick": 57,
+      "round": 8,
+      "team_key": "402.l.14747.t.4"
+    },
+    {
+      "pick": 58,
+      "round": 8,
+      "team_key": "402.l.14747.t.2"
+    },
+    {
+      "pick": 59,
+      "round": 8,
+      "team_key": "402.l.14747.t.7"
+    },
+    {
+      "pick": 60,
+      "round": 8,
+      "team_key": "402.l.14747.t.5"
+    },
+    {
+      "pick": 61,
+      "round": 8,
+      "team_key": "402.l.14747.t.8"
+    },
+    {
+      "pick": 62,
+      "round": 8,
+      "team_key": "402.l.14747.t.3"
+    },
+    {
+      "pick": 63,
+      "round": 8,
+      "team_key": "402.l.14747.t.1"
+    },
+    {
+      "pick": 64,
+      "round": 8,
+      "team_key": "402.l.14747.t.6"
+    },
+    {
+      "pick": 65,
+      "round": 9,
+      "team_key": "402.l.14747.t.6"
+    },
+    {
+      "pick": 66,
+      "round": 9,
+      "team_key": "402.l.14747.t.1"
+    },
+    {
+      "pick": 67,
+      "round": 9,
+      "team_key": "402.l.14747.t.3"
+    },
+    {
+      "pick": 68,
+      "round": 9,
+      "team_key": "402.l.14747.t.8"
+    },
+    {
+      "pick": 69,
+      "round": 9,
+      "team_key": "402.l.14747.t.5"
+    },
+    {
+      "pick": 70,
+      "round": 9,
+      "team_key": "402.l.14747.t.7"
+    },
+    {
+      "pick": 71,
+      "round": 9,
+      "team_key": "402.l.14747.t.2"
+    },
+    {
+      "pick": 72,
+      "round": 9,
+      "team_key": "402.l.14747.t.4"
+    },
+    {
+      "pick": 73,
+      "round": 10,
+      "team_key": "402.l.14747.t.4"
+    },
+    {
+      "pick": 74,
+      "round": 10,
+      "team_key": "402.l.14747.t.2"
+    },
+    {
+      "pick": 75,
+      "round": 10,
+      "team_key": "402.l.14747.t.7"
+    },
+    {
+      "pick": 76,
+      "round": 10,
+      "team_key": "402.l.14747.t.5"
+    },
+    {
+      "pick": 77,
+      "round": 10,
+      "team_key": "402.l.14747.t.8"
+    },
+    {
+      "pick": 78,
+      "round": 10,
+      "team_key": "402.l.14747.t.3"
+    },
+    {
+      "pick": 79,
+      "round": 10,
+      "team_key": "402.l.14747.t.1"
+    },
+    {
+      "pick": 80,
+      "round": 10,
+      "team_key": "402.l.14747.t.6"
+    },
+    {
+      "pick": 81,
+      "round": 11,
+      "team_key": "402.l.14747.t.6"
+    },
+    {
+      "pick": 82,
+      "round": 11,
+      "team_key": "402.l.14747.t.1"
+    },
+    {
+      "pick": 83,
+      "round": 11,
+      "team_key": "402.l.14747.t.3"
+    },
+    {
+      "pick": 84,
+      "round": 11,
+      "team_key": "402.l.14747.t.8"
+    },
+    {
+      "pick": 85,
+      "round": 11,
+      "team_key": "402.l.14747.t.5"
+    },
+    {
+      "pick": 86,
+      "round": 11,
+      "team_key": "402.l.14747.t.7"
+    },
+    {
+      "pick": 87,
+      "round": 11,
+      "team_key": "402.l.14747.t.2"
+    },
+    {
+      "pick": 88,
+      "round": 11,
+      "team_key": "402.l.14747.t.4"
+    },
+    {
+      "pick": 89,
+      "round": 12,
+      "team_key": "402.l.14747.t.4"
+    },
+    {
+      "pick": 90,
+      "round": 12,
+      "team_key": "402.l.14747.t.2"
+    },
+    {
+      "pick": 91,
+      "round": 12,
+      "team_key": "402.l.14747.t.7"
+    },
+    {
+      "pick": 92,
+      "round": 12,
+      "team_key": "402.l.14747.t.5"
+    },
+    {
+      "pick": 93,
+      "round": 12,
+      "team_key": "402.l.14747.t.8"
+    },
+    {
+      "pick": 94,
+      "round": 12,
+      "team_key": "402.l.14747.t.3"
+    },
+    {
+      "pick": 95,
+      "round": 12,
+      "team_key": "402.l.14747.t.1"
+    },
+    {
+      "pick": 96,
+      "round": 12,
+      "team_key": "402.l.14747.t.6"
+    },
+    {
+      "pick": 97,
+      "round": 13,
+      "team_key": "402.l.14747.t.6"
+    },
+    {
+      "pick": 98,
+      "round": 13,
+      "team_key": "402.l.14747.t.1"
+    },
+    {
+      "pick": 99,
+      "round": 13,
+      "team_key": "402.l.14747.t.3"
+    },
+    {
+      "pick": 100,
+      "round": 13,
+      "team_key": "402.l.14747.t.8"
+    },
+    {
+      "pick": 101,
+      "round": 13,
+      "team_key": "402.l.14747.t.5"
+    },
+    {
+      "pick": 102,
+      "round": 13,
+      "team_key": "402.l.14747.t.7"
+    },
+    {
+      "pick": 103,
+      "round": 13,
+      "team_key": "402.l.14747.t.2"
+    },
+    {
+      "pick": 104,
+      "round": 13,
+      "team_key": "402.l.14747.t.4"
+    }
+  ]
+}
