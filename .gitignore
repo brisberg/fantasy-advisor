@@ -1,6 +1,9 @@
 # Node Modules
 node_modules
 
+# Data Files (Projection data downloaded from FantasyPros)
+data
+
 # Log files
 yarn-error.log
 
