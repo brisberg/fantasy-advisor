@@ -8,9 +8,11 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "start": "ts-node src/index.ts"
+    "start": "ts-node src/index.ts",
+    "analyzer": "ts-node src/analyzer/main.ts"
   },
   "dependencies": {
+    "csv-parser": "^3.0.0",
     "express": "^4.17.1",
     "ts-node": "^9.1.1",
     "yahoo-fantasy": "^4.1.1"
