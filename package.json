@@ -2,13 +2,13 @@
   "name": "@brisberg/fantasy-advisor",
   "version": "0.1.0",
   "description": "Automated manager for Fantasy Sports teams.",
-  "main": "index.js",
+  "main": "src/index.js",
   "repository": "https://github.com/brisberg/fantasy-advisor.git",
   "author": "Brandon Risberg <brandon.risberg@gmail.com>",
   "license": "MIT",
   "private": false,
   "scripts": {
-    "start": "ts-node index.ts"
+    "start": "ts-node src/index.ts"
   },
   "dependencies": {
     "express": "^4.17.1",
