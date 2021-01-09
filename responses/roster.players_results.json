@@ -1,0 +1,550 @@
+{
+  "team_key": "402.l.14747.t.6",
+  "team_id": "6",
+  "name": "Live Free Die Harden",
+  "is_owned_by_current_login": 1,
+  "url": "https://basketball.fantasysports.yahoo.com/nba/14747/6",
+  "team_logos": [
+    {
+      "size": "large",
+      "url": "https://s.yimg.com/cv/apiv2/default/nba/nba_9.png"
+    }
+  ],
+  "waiver_priority": 5,
+  "number_of_moves": "4",
+  "number_of_trades": 0,
+  "roster_adds": {
+    "coverage_type": "week",
+    "coverage_value": 3,
+    "value": "2"
+  },
+  "league_scoring_type": "head",
+  "draft_position": 1,
+  "has_draft_grade": 0,
+  "managers": [
+    {
+      "manager_id": "6",
+      "nickname": "Brandon",
+      "guid": "ZVBPEGZE6VD7ALO5V3J2QG2BCY",
+      "is_current_login": "1",
+      "email": "brandon.risberg@gmail.com",
+      "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg"
+    }
+  ],
+  "roster": [
+    {
+      "player_key": "402.p.3704",
+      "player_id": "3704",
+      "name": {
+        "full": "LeBron James",
+        "first": "LeBron",
+        "last": "James",
+        "ascii_first": "LeBron",
+        "ascii_last": "James"
+      },
+      "status": "GTD",
+      "status_full": "Game Time Decision",
+      "injury_note": "Ankle",
+      "editorial_player_key": "nba.p.3704",
+      "editorial_team_key": "nba.t.13",
+      "editorial_team_full_name": "Los Angeles Lakers",
+      "editorial_team_abbr": "LAL",
+      "uniform_number": "23",
+      "display_position": "PG,SG,SF",
+      "headshot": {
+        "url": "https://s.yimg.com/iu/api/res/1.2/eAF.Tgg980pAAI70YAFECA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/01052021/3704.png",
+        "size": "small"
+      },
+      "image_url": "https://s.yimg.com/iu/api/res/1.2/eAF.Tgg980pAAI70YAFECA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/01052021/3704.png",
+      "is_undroppable": "1",
+      "position_type": "P",
+      "primary_position": "PG",
+      "eligible_positions": [
+        "PG",
+        "SG",
+        "G",
+        "SF",
+        "F",
+        "Util"
+      ],
+      "has_player_notes": 1,
+      "has_recent_player_notes": 1,
+      "player_notes_last_timestamp": 1610143923
+    },
+    {
+      "player_key": "402.p.4614",
+      "player_id": "4614",
+      "name": {
+        "full": "DeMar DeRozan",
+        "first": "DeMar",
+        "last": "DeRozan",
+        "ascii_first": "DeMar",
+        "ascii_last": "DeRozan"
+      },
+      "editorial_player_key": "nba.p.4614",
+      "editorial_team_key": "nba.t.24",
+      "editorial_team_full_name": "San Antonio Spurs",
+      "editorial_team_abbr": "SA",
+      "uniform_number": "10",
+      "display_position": "SG,SF",
+      "headshot": {
+        "url": "https://s.yimg.com/iu/api/res/1.2/mHLlY2ZrrMKSyKKJ5gHq2g--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/10112019/4614.png",
+        "size": "small"
+      },
+      "image_url": "https://s.yimg.com/iu/api/res/1.2/mHLlY2ZrrMKSyKKJ5gHq2g--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/10112019/4614.png",
+      "is_undroppable": "0",
+      "position_type": "P",
+      "primary_position": "SG",
+      "eligible_positions": [
+        "SG",
+        "G",
+        "SF",
+        "F",
+        "Util"
+      ],
+      "has_player_notes": 1,
+      "has_recent_player_notes": 1,
+      "player_notes_last_timestamp": 1610086152
+    },
+    {
+      "player_key": "402.p.4563",
+      "player_id": "4563",
+      "name": {
+        "full": "James Harden",
+        "first": "James",
+        "last": "Harden",
+        "ascii_first": "James",
+        "ascii_last": "Harden"
+      },
+      "editorial_player_key": "nba.p.4563",
+      "editorial_team_key": "nba.t.10",
+      "editorial_team_full_name": "Houston Rockets",
+      "editorial_team_abbr": "Hou",
+      "uniform_number": "13",
+      "display_position": "PG,SG",
+      "headshot": {
+        "url": "https://s.yimg.com/iu/api/res/1.2/GKDRRazyjkNhUd9Nyc4UQQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/10112019/4563.png",
+        "size": "small"
+      },
+      "image_url": "https://s.yimg.com/iu/api/res/1.2/GKDRRazyjkNhUd9Nyc4UQQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/10112019/4563.png",
+      "is_undroppable": "1",
+      "position_type": "P",
+      "primary_position": "PG",
+      "eligible_positions": [
+        "PG",
+        "SG",
+        "G",
+        "Util"
+      ],
+      "has_player_notes": 1,
+      "player_notes_last_timestamp": 1609820205
+    },
+    {
+      "player_key": "402.p.5292",
+      "player_id": "5292",
+      "name": {
+        "full": "Andrew Wiggins",
+        "first": "Andrew",
+        "last": "Wiggins",
+        "ascii_first": "Andrew",
+        "ascii_last": "Wiggins"
+      },
+      "status": "GTD",
+      "status_full": "Game Time Decision",
+      "injury_note": "Quadriceps",
+      "editorial_player_key": "nba.p.5292",
+      "editorial_team_key": "nba.t.9",
+      "editorial_team_full_name": "Golden State Warriors",
+      "editorial_team_abbr": "GS",
+      "uniform_number": "22",
+      "display_position": "SG,SF",
+      "headshot": {
+        "url": "https://s.yimg.com/iu/api/res/1.2/Oq2YQI4TguTdHWYhTk0BVA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/12232020/5292.png",
+        "size": "small"
+      },
+      "image_url": "https://s.yimg.com/iu/api/res/1.2/Oq2YQI4TguTdHWYhTk0BVA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/12232020/5292.png",
+      "is_undroppable": "0",
+      "position_type": "P",
+      "primary_position": "SG",
+      "eligible_positions": [
+        "SG",
+        "G",
+        "SF",
+        "F",
+        "Util"
+      ],
+      "has_player_notes": 1,
+      "has_recent_player_notes": 1,
+      "player_notes_last_timestamp": 1610145864
+    },
+    {
+      "player_key": "402.p.6209",
+      "player_id": "6209",
+      "name": {
+        "full": "Brandon Clarke",
+        "first": "Brandon",
+        "last": "Clarke",
+        "ascii_first": "Brandon",
+        "ascii_last": "Clarke"
+      },
+      "editorial_player_key": "nba.p.6209",
+      "editorial_team_key": "nba.t.29",
+      "editorial_team_full_name": "Memphis Grizzlies",
+      "editorial_team_abbr": "Mem",
+      "uniform_number": "15",
+      "display_position": "SF,PF",
+      "headshot": {
+        "url": "https://s.yimg.com/iu/api/res/1.2/VKL4O_5qI5x.u.D7OqWdHw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/10082019/6209.png",
+        "size": "small"
+      },
+      "image_url": "https://s.yimg.com/iu/api/res/1.2/VKL4O_5qI5x.u.D7OqWdHw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/10082019/6209.png",
+      "is_undroppable": "0",
+      "position_type": "P",
+      "primary_position": "SF",
+      "eligible_positions": [
+        "SF",
+        "PF",
+        "F",
+        "Util"
+      ],
+      "has_player_notes": 1,
+      "has_recent_player_notes": 1,
+      "player_notes_last_timestamp": 1610077880
+    },
+    {
+      "player_key": "402.p.6022",
+      "player_id": "6022",
+      "name": {
+        "full": "Shai Gilgeous-Alexander",
+        "first": "Shai",
+        "last": "Gilgeous-Alexander",
+        "ascii_first": "Shai",
+        "ascii_last": "Gilgeous-Alexander"
+      },
+      "editorial_player_key": "nba.p.6022",
+      "editorial_team_key": "nba.t.25",
+      "editorial_team_full_name": "Oklahoma City Thunder",
+      "editorial_team_abbr": "OKC",
+      "uniform_number": "2",
+      "display_position": "SG,SF",
+      "headshot": {
+        "url": "https://s.yimg.com/iu/api/res/1.2/X6Q1Xs3f40xNnQgQtgWD5w--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/10082019/6022.png",
+        "size": "small"
+      },
+      "image_url": "https://s.yimg.com/iu/api/res/1.2/X6Q1Xs3f40xNnQgQtgWD5w--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/10082019/6022.png",
+      "is_undroppable": "0",
+      "position_type": "P",
+      "primary_position": "SG",
+      "eligible_positions": [
+        "SG",
+        "G",
+        "SF",
+        "F",
+        "Util"
+      ],
+      "has_player_notes": 1,
+      "player_notes_last_timestamp": 1609997946
+    },
+    {
+      "player_key": "402.p.5827",
+      "player_id": "5827",
+      "name": {
+        "full": "Bam Adebayo",
+        "first": "Bam",
+        "last": "Adebayo",
+        "ascii_first": "Bam",
+        "ascii_last": "Adebayo"
+      },
+      "editorial_player_key": "nba.p.5827",
+      "editorial_team_key": "nba.t.14",
+      "editorial_team_full_name": "Miami Heat",
+      "editorial_team_abbr": "Mia",
+      "uniform_number": "13",
+      "display_position": "PF,C",
+      "headshot": {
+        "url": "https://s.yimg.com/iu/api/res/1.2/EXf6nJ5P7Yd887XrJrkucQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/10142019/5827.png",
+        "size": "small"
+      },
+      "image_url": "https://s.yimg.com/iu/api/res/1.2/EXf6nJ5P7Yd887XrJrkucQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/10142019/5827.png",
+      "is_undroppable": "1",
+      "position_type": "P",
+      "primary_position": "PF",
+      "eligible_positions": [
+        "PF",
+        "F",
+        "C",
+        "Util"
+      ],
+      "has_player_notes": 1,
+      "player_notes_last_timestamp": 1609997205
+    },
+    {
+      "player_key": "402.p.6018",
+      "player_id": "6018",
+      "name": {
+        "full": "Wendell Carter Jr.",
+        "first": "Wendell",
+        "last": "Carter Jr.",
+        "ascii_first": "Wendell",
+        "ascii_last": "Carter Jr."
+      },
+      "editorial_player_key": "nba.p.6018",
+      "editorial_team_key": "nba.t.4",
+      "editorial_team_full_name": "Chicago Bulls",
+      "editorial_team_abbr": "Chi",
+      "uniform_number": "34",
+      "display_position": "C",
+      "headshot": {
+        "url": "https://s.yimg.com/iu/api/res/1.2/wkUz4Kb4s0GsbJpDgfhjEQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/10142019/6018.png",
+        "size": "small"
+      },
+      "image_url": "https://s.yimg.com/iu/api/res/1.2/wkUz4Kb4s0GsbJpDgfhjEQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/10142019/6018.png",
+      "is_undroppable": "0",
+      "position_type": "P",
+      "primary_position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "has_player_notes": 1,
+      "player_notes_last_timestamp": 1610002866
+    },
+    {
+      "player_key": "402.p.4390",
+      "player_id": "4390",
+      "name": {
+        "full": "Russell Westbrook",
+        "first": "Russell",
+        "last": "Westbrook",
+        "ascii_first": "Russell",
+        "ascii_last": "Westbrook"
+      },
+      "editorial_player_key": "nba.p.4390",
+      "editorial_team_key": "nba.t.27",
+      "editorial_team_full_name": "Washington Wizards",
+      "editorial_team_abbr": "Was",
+      "uniform_number": "4",
+      "display_position": "PG",
+      "headshot": {
+        "url": "https://s.yimg.com/iu/api/res/1.2/JMubh.OmZ2LC5DgaupSBpA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/12152020/4390.png",
+        "size": "small"
+      },
+      "image_url": "https://s.yimg.com/iu/api/res/1.2/JMubh.OmZ2LC5DgaupSBpA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/12152020/4390.png",
+      "is_undroppable": "1",
+      "position_type": "P",
+      "primary_position": "PG",
+      "eligible_positions": [
+        "PG",
+        "G",
+        "Util"
+      ],
+      "has_player_notes": 1,
+      "has_recent_player_notes": 1,
+      "player_notes_last_timestamp": 1610147372
+    },
+    {
+      "player_key": "402.p.4716",
+      "player_id": "4716",
+      "name": {
+        "full": "John Wall",
+        "first": "John",
+        "last": "Wall",
+        "ascii_first": "John",
+        "ascii_last": "Wall"
+      },
+      "editorial_player_key": "nba.p.4716",
+      "editorial_team_key": "nba.t.10",
+      "editorial_team_full_name": "Houston Rockets",
+      "editorial_team_abbr": "Hou",
+      "uniform_number": "1",
+      "display_position": "PG",
+      "headshot": {
+        "url": "https://s.yimg.com/iu/api/res/1.2/eQPKd8ZfKPZbEZzpAjI_Jw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/12172020/4716.png",
+        "size": "small"
+      },
+      "image_url": "https://s.yimg.com/iu/api/res/1.2/eQPKd8ZfKPZbEZzpAjI_Jw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/12172020/4716.png",
+      "is_undroppable": "0",
+      "position_type": "P",
+      "primary_position": "PG",
+      "eligible_positions": [
+        "PG",
+        "G",
+        "Util"
+      ],
+      "has_player_notes": 1,
+      "player_notes_last_timestamp": 1609987335
+    },
+    {
+      "player_key": "402.p.6045",
+      "player_id": "6045",
+      "name": {
+        "full": "Devonte' Graham",
+        "first": "Devonte'",
+        "last": "Graham",
+        "ascii_first": "Devonte'",
+        "ascii_last": "Graham"
+      },
+      "editorial_player_key": "nba.p.6045",
+      "editorial_team_key": "nba.t.30",
+      "editorial_team_full_name": "Charlotte Hornets",
+      "editorial_team_abbr": "Cha",
+      "uniform_number": "4",
+      "display_position": "PG,SG",
+      "headshot": {
+        "url": "https://s.yimg.com/iu/api/res/1.2/km8vInkWlbQWmRU1M8TjRw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/10152019/6045.1.png",
+        "size": "small"
+      },
+      "image_url": "https://s.yimg.com/iu/api/res/1.2/km8vInkWlbQWmRU1M8TjRw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/10152019/6045.1.png",
+      "is_undroppable": "0",
+      "position_type": "P",
+      "primary_position": "PG",
+      "eligible_positions": [
+        "PG",
+        "SG",
+        "G",
+        "Util"
+      ],
+      "has_player_notes": 1,
+      "player_notes_last_timestamp": 1609993004
+    },
+    {
+      "player_key": "402.p.4926",
+      "player_id": "4926",
+      "name": {
+        "full": "Davis Bertans",
+        "first": "Davis",
+        "last": "Bertans",
+        "ascii_first": "Davis",
+        "ascii_last": "Bertans"
+      },
+      "editorial_player_key": "nba.p.4926",
+      "editorial_team_key": "nba.t.27",
+      "editorial_team_full_name": "Washington Wizards",
+      "editorial_team_abbr": "Was",
+      "uniform_number": "42",
+      "display_position": "PF,C",
+      "headshot": {
+        "url": "https://s.yimg.com/iu/api/res/1.2/fwY_TSaJ6KBK8OmBEG1H8g--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/10082019/4926.png",
+        "size": "small"
+      },
+      "image_url": "https://s.yimg.com/iu/api/res/1.2/fwY_TSaJ6KBK8OmBEG1H8g--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/10082019/4926.png",
+      "is_undroppable": "0",
+      "position_type": "P",
+      "primary_position": "PF",
+      "eligible_positions": [
+        "PF",
+        "F",
+        "C",
+        "Util"
+      ],
+      "has_player_notes": 1,
+      "player_notes_last_timestamp": 1609993313
+    },
+    {
+      "player_key": "402.p.5336",
+      "player_id": "5336",
+      "name": {
+        "full": "Clint Capela",
+        "first": "Clint",
+        "last": "Capela",
+        "ascii_first": "Clint",
+        "ascii_last": "Capela"
+      },
+      "editorial_player_key": "nba.p.5336",
+      "editorial_team_key": "nba.t.1",
+      "editorial_team_full_name": "Atlanta Hawks",
+      "editorial_team_abbr": "Atl",
+      "uniform_number": "15",
+      "display_position": "C",
+      "headshot": {
+        "url": "https://s.yimg.com/iu/api/res/1.2/hDR.7xlkezvo2V_tMAeVQw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/12232020/5336.png",
+        "size": "small"
+      },
+      "image_url": "https://s.yimg.com/iu/api/res/1.2/hDR.7xlkezvo2V_tMAeVQw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/12232020/5336.png",
+      "is_undroppable": "0",
+      "position_type": "P",
+      "primary_position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "has_player_notes": 1,
+      "player_notes_last_timestamp": 1609994179
+    },
+    {
+      "player_key": "402.p.6025",
+      "player_id": "6025",
+      "name": {
+        "full": "Michael Porter Jr.",
+        "first": "Michael",
+        "last": "Porter Jr.",
+        "ascii_first": "Michael",
+        "ascii_last": "Porter Jr."
+      },
+      "status": "INJ",
+      "status_full": "Injured (IL-eligible)",
+      "injury_note": "Covid-19",
+      "editorial_player_key": "nba.p.6025",
+      "editorial_team_key": "nba.t.7",
+      "editorial_team_full_name": "Denver Nuggets",
+      "editorial_team_abbr": "Den",
+      "uniform_number": "1",
+      "display_position": "SF,PF",
+      "headshot": {
+        "url": "https://s.yimg.com/iu/api/res/1.2/S3h_VqfE3xFrJFbxynPG9w--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/01072021/6025.png",
+        "size": "small"
+      },
+      "image_url": "https://s.yimg.com/iu/api/res/1.2/S3h_VqfE3xFrJFbxynPG9w--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/01072021/6025.png",
+      "is_undroppable": "0",
+      "position_type": "P",
+      "primary_position": "SF",
+      "eligible_positions": [
+        "SF",
+        "PF",
+        "F",
+        "Util",
+        "IL"
+      ],
+      "has_player_notes": 1,
+      "has_recent_player_notes": 1,
+      "player_notes_last_timestamp": 1610077260
+    },
+    {
+      "player_key": "402.p.5464",
+      "player_id": "5464",
+      "name": {
+        "full": "Kristaps Porzingis",
+        "first": "Kristaps",
+        "last": "Porzingis",
+        "ascii_first": "Kristaps",
+        "ascii_last": "Porzingis"
+      },
+      "status": "INJ",
+      "status_full": "Injured (IL-eligible)",
+      "injury_note": "Knee",
+      "editorial_player_key": "nba.p.5464",
+      "editorial_team_key": "nba.t.6",
+      "editorial_team_full_name": "Dallas Mavericks",
+      "editorial_team_abbr": "Dal",
+      "uniform_number": "6",
+      "display_position": "PF,C",
+      "headshot": {
+        "url": "https://s.yimg.com/iu/api/res/1.2/iAknnSQmGJqCjT2EdI5ARw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/10102019/5464.png",
+        "size": "small"
+      },
+      "image_url": "https://s.yimg.com/iu/api/res/1.2/iAknnSQmGJqCjT2EdI5ARw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/10102019/5464.png",
+      "is_undroppable": "0",
+      "position_type": "P",
+      "primary_position": "PF",
+      "eligible_positions": [
+        "PF",
+        "F",
+        "C",
+        "Util",
+        "IL"
+      ],
+      "has_player_notes": 1,
+      "player_notes_last_timestamp": 1609958900
+    }
+  ]
+}

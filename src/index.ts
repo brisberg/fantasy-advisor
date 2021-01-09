@@ -17,7 +17,7 @@ const cert = fs.readFileSync('./auth/server.crt');
 const https = require('https');
 
 
-const yahooCreds = require('./yahoo.json');
+const yahooCreds = require('../yahoo.json');
 
 app.tokenCallback = function({access_token, refresh_token}) {
   return new Promise((resolve, reject) => {
@@ -106,9 +106,8 @@ app.get('/yahoo/league/standings', (req, res) => {
       });
 });
 
-
 app.get('/yahoo/roster/players', (req, res) => {
-  app.yf.roster.players('nba.l.14747')
+  app.yf.roster.players('402.l.14747.t.6', '2021-01-08')
       .then(data => {
         // do your thing
         res.status(200).send(data);
@@ -121,6 +120,18 @@ app.get('/yahoo/roster/players', (req, res) => {
 
 app.get('/yahoo/league/draft_results', (req, res) => {
   app.yf.league.draft_results('nba.l.14747')
+      .then(data => {
+        // do your thing
+        res.status(200).send(data);
+      })
+      .catch(err => {
+        // handle error
+        res.status(400).send(err);
+      });
+});
+
+app.get('/yahoo/team/roster', (req, res) => {
+  app.yf.team.roster('402.l.14747.t.6')
       .then(data => {
         // do your thing
         res.status(200).send(data);
