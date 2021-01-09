@@ -15,7 +15,7 @@
     "csv-parser": "^3.0.0",
     "express": "^4.17.1",
     "ts-node": "^9.1.1",
-    "yahoo-fantasy": "^4.1.1"
+    "yahoo-fantasy": "github:brisberg/yahoo-fantasy-sports-api#fix-selected-position"
   },
   "devDependencies": {
     "@types/node": "^14.14.14",
